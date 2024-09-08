@@ -354,7 +354,7 @@
   height: 200px;
   padding: 60px 80px;
 }
-.footer_column {
+.footer__column {
   max-width: fit-content;
   display: flex;
   flex-direction: column;
