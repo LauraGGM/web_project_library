@@ -384,7 +384,7 @@
 
 .footer__column-heading {
   display: flex;
-  margin: 0px;
+  margin-bottom: 20px;
   color: #fff;
   font-size: 19px;
   font-weight: bold;
@@ -394,8 +394,7 @@
   /* El siguiente código elimina los estilos predeterminados del navegador para las listas */
   list-style-type: none;
   padding: 0;
-  margin-bottom: -16px;
-  margin-top: 0px;
+  margin: 0;
 }
 
 .footer__list-item {
