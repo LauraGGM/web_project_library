@@ -407,7 +407,7 @@
   margin: 0px;
   padding: 0px;
   display: flex;
-  flex-direction: row;
+  align-items: flex-start;
   color: white;
   text-decoration: none;
   gap: 10px;
